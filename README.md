@@ -1,1 +1,1 @@
-# Vibe-Codint_Landing_Demo
+# Vibe-Coding_Landing_Demo
